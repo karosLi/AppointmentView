@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="calendar_event_text_color">#ffFFFFFF</color>
+    <color name="calendar_future_bg_color">#ffffffff</color>
+    <color name="calendar_hour_label">#ff666666</color>
+    <color name="calendar_hour_background">#ffEEEEEE</color>
+    <color name="calendar_clerk_banner_text_color">#ff666666</color>
+    <color name="calendar_grid_area_selected">#e633b5e5</color>
+    <color name="calendar_grid_line_inner_horizontal_color">#FFCCCCCC</color>
+    <color name="calendar_grid_line_inner_vertical_color">#FFCCCCCC</color>
+    <color name="calendar_grid_line_highlight_color">#ff707070</color>
+
+    <color name="event_center">#ff6bd697</color>
+    <!-- Text color of the "new event" hint in day and week views -->
+    <color name="new_event_hint_text_color">#FFFFFFFF</color>
+    <!-- background color for the past -->
+    <color name="day_past_background_color">#FFDDDDDD</color>
+</resources>

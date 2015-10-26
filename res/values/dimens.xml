@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="clerk_header_bottom_margin">4dip</dimen>
+    <dimen name="hours_text_size">16sp</dimen>
+    <dimen name="appoint_list_view_event_text_size">12sp</dimen>
+    <dimen name="event_text_vertical_margin">2dp</dimen>
+    <dimen name="event_text_horizontal_margin">4dp</dimen>
+    
+    <dimen name="event_min_height">24dip</dimen>
+    <dimen name="min_hours_width">24dip</dimen>
+    <dimen name="hours_left_margin">20dip</dimen>
+    <dimen name="hours_right_margin">4dip</dimen>
+</resources>
