@@ -37,7 +37,7 @@ public class AppointmentFragment extends Fragment implements AppointmentView.Mes
     
     Time mSelectedDay = new Time();
     
-    private final static String[] ALLCLERKS = new String[] {"Karos", "Colin", "Mechelle", "Tom", "Jay", "Will", "Benly", "Alisa", "Noah", "Jackie", "Rita"};
+    private final static String[] ALLCLERKS = new String[] {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"};
 
     private final Runnable mTZUpdater = new Runnable() {
         @Override
